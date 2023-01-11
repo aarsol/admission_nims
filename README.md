@@ -1,1 +1,1 @@
-# admission_nims
+# nims-admission
